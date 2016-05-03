@@ -1,7 +1,7 @@
 # aspcore-mysql
 Template to work with the MySQL database. Based on template Web Application without authentication. Made for **ASP core**.
 <br>
-<br>ASP.NET 5, ASP CORE, ASP MVC 6, EntityFramework 6, MySQL Connection.
+<br>ASP.NET 5, ASP CORE, ASP MVC 6, EntityFramework 6, MySQL Connection. asp core mysql connect, connect to mysql asp 5 net.
 <br>
 <br>**Full tutorial**
 <br>
